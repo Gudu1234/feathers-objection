@@ -31,5 +31,6 @@
   "mysql": {
     "client": "mysql2",
     "connection": "mysql://root:@localhost:3306/feathers_objection"
-  }
+  },
+  "mongodb": "mongodb://localhost:27017/feathers_objection"
 }
